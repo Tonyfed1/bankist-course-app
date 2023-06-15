@@ -1,6 +1,6 @@
 # bankist project
 
-An application built on the course of learning advance DOM like:
+Bankist is a banking app built on the course of learning advance DOM like:
 
 - revealing element on scroll
 - lazy loading images
