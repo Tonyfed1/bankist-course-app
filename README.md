@@ -12,4 +12,4 @@ Bankist is a banking app built on the course of learning advance DOM like:
 - event propagation bubblind and capturing
 - event deligation
 
-* Built from Jonas Schmedtmann JavaScript Coruse on Udemy
+Built from Jonas Schmedtmann JavaScript Coruse on Udemy
